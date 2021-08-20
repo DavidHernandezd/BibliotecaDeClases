@@ -1,0 +1,10 @@
+C:\Users\PC\source\repos\BiblioteclaClases\UsoBiblioteca\bin\Debug\UsoBiblioteca.exe.config
+C:\Users\PC\source\repos\BiblioteclaClases\UsoBiblioteca\bin\Debug\UsoBiblioteca.exe
+C:\Users\PC\source\repos\BiblioteclaClases\UsoBiblioteca\bin\Debug\UsoBiblioteca.pdb
+C:\Users\PC\source\repos\BiblioteclaClases\UsoBiblioteca\bin\Debug\BiblioteclaClases.dll
+C:\Users\PC\source\repos\BiblioteclaClases\UsoBiblioteca\bin\Debug\BiblioteclaClases.pdb
+C:\Users\PC\source\repos\BiblioteclaClases\UsoBiblioteca\obj\Debug\UsoBiblioteca.csprojAssemblyReference.cache
+C:\Users\PC\source\repos\BiblioteclaClases\UsoBiblioteca\obj\Debug\UsoBiblioteca.csproj.CoreCompileInputs.cache
+C:\Users\PC\source\repos\BiblioteclaClases\UsoBiblioteca\obj\Debug\UsoBiblioteca.csproj.CopyComplete
+C:\Users\PC\source\repos\BiblioteclaClases\UsoBiblioteca\obj\Debug\UsoBiblioteca.exe
+C:\Users\PC\source\repos\BiblioteclaClases\UsoBiblioteca\obj\Debug\UsoBiblioteca.pdb
